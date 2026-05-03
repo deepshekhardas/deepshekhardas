@@ -130,15 +130,6 @@ const deepshekhar = {
 </div>
 
 ---
-
-## 📈 Activity Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepshekhardas&bg_color=0d1117&color=4f98a3&line=01696f&point=4f98a3&area=true&hide_border=true" width="95%"/>
-</div>
-
----
-
 ## 🔥 Open Source Mission
 
 <div align="center">
