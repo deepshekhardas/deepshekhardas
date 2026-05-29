@@ -136,16 +136,7 @@ const deepshekhar = {
 
 > *"Every PR is a step toward mastery. Consistency beats intensity — ship daily, learn forever."*
 
-**🎯 PR Goal Progress**
 
-| Milestone          | Target | Status        |
-|--------------------|--------|---------------|
-| 🌱 First 100 PRs   | 100    | ✅ Done       |
-| ⚡ 500 Quality PRs  | 500    | 🔥 In Progress |
-| 🚀 1000 PRs        | 1000   | 🎯 Coming Soon |
-| 🌟 8000+ PRs       | 8000   | 💪 The Dream   |
-
-</div>
 
 ---
 
