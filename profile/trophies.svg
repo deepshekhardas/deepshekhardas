@@ -1,5 +1,66 @@
-Payment required
-
-DEPLOYMENT_DISABLED
-
-sfo1::f69l6-1780574608305-f8ea32ebe289
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150">
+<rect width="900" height="150" fill="#1a1b27"/>
+<g transform="translate(5,5)">
+<rect width="120" height="140" rx="10" fill="#1f2035" stroke="#4f98a3" stroke-width="1.5"/>
+<rect x="35" y="12" width="50" height="50" rx="6" fill="#2d3561"/>
+<text x="60" y="48" text-anchor="middle" fill="#FFD700" font-size="28" font-family="sans-serif" font-weight="bold">PR</text>
+<text x="60" y="80" text-anchor="middle" fill="#e0af68" font-size="22" font-family="sans-serif" font-weight="bold">466</text>
+<text x="60" y="97" text-anchor="middle" fill="#a9b1d6" font-size="9" font-family="sans-serif">Pull Request</text>
+<rect x="15" y="108" width="90" height="15" rx="4" fill="#e0af68"/>
+<text x="60" y="119" text-anchor="middle" fill="#1a1b27" font-size="9" font-family="sans-serif" font-weight="bold">S Rank</text>
+</g>
+<g transform="translate(133,5)">
+<rect width="120" height="140" rx="10" fill="#1f2035" stroke="#4f98a3" stroke-width="1.5"/>
+<rect x="35" y="12" width="50" height="50" rx="6" fill="#2d3561"/>
+<text x="60" y="48" text-anchor="middle" fill="#FFD700" font-size="22" font-family="sans-serif" font-weight="bold">CMT</text>
+<text x="60" y="80" text-anchor="middle" fill="#e0af68" font-size="22" font-family="sans-serif" font-weight="bold">28</text>
+<text x="60" y="97" text-anchor="middle" fill="#a9b1d6" font-size="9" font-family="sans-serif">Total Commits</text>
+<rect x="15" y="108" width="90" height="15" rx="4" fill="#7aa2f7"/>
+<text x="60" y="119" text-anchor="middle" fill="#1a1b27" font-size="9" font-family="sans-serif" font-weight="bold">B+ Rank</text>
+</g>
+<g transform="translate(261,5)">
+<rect width="120" height="140" rx="10" fill="#1f2035" stroke="#4f98a3" stroke-width="1.5"/>
+<rect x="35" y="12" width="50" height="50" rx="6" fill="#2d3561"/>
+<text x="60" y="48" text-anchor="middle" fill="#FFD700" font-size="22" font-family="sans-serif" font-weight="bold">CONT</text>
+<text x="60" y="80" text-anchor="middle" fill="#e0af68" font-size="22" font-family="sans-serif" font-weight="bold">535</text>
+<text x="60" y="97" text-anchor="middle" fill="#a9b1d6" font-size="9" font-family="sans-serif">Contributions</text>
+<rect x="15" y="108" width="90" height="15" rx="4" fill="#9ece6a"/>
+<text x="60" y="119" text-anchor="middle" fill="#1a1b27" font-size="9" font-family="sans-serif" font-weight="bold">A Rank</text>
+</g>
+<g transform="translate(389,5)">
+<rect width="120" height="140" rx="10" fill="#1f2035" stroke="#4f98a3" stroke-width="1.5"/>
+<rect x="35" y="12" width="50" height="50" rx="6" fill="#2d3561"/>
+<text x="60" y="48" text-anchor="middle" fill="#FFD700" font-size="22" font-family="sans-serif" font-weight="bold">REPO</text>
+<text x="60" y="80" text-anchor="middle" fill="#e0af68" font-size="22" font-family="sans-serif" font-weight="bold">37</text>
+<text x="60" y="97" text-anchor="middle" fill="#a9b1d6" font-size="9" font-family="sans-serif">Repositories</text>
+<rect x="15" y="108" width="90" height="15" rx="4" fill="#7dcfff"/>
+<text x="60" y="119" text-anchor="middle" fill="#1a1b27" font-size="9" font-family="sans-serif" font-weight="bold">C Rank</text>
+</g>
+<g transform="translate(517,5)">
+<rect width="120" height="140" rx="10" fill="#1f2035" stroke="#4f98a3" stroke-width="1.5"/>
+<rect x="35" y="12" width="50" height="50" rx="6" fill="#2d3561"/>
+<text x="60" y="48" text-anchor="middle" fill="#FFD700" font-size="22" font-family="sans-serif" font-weight="bold">STAR</text>
+<text x="60" y="80" text-anchor="middle" fill="#e0af68" font-size="22" font-family="sans-serif" font-weight="bold">23</text>
+<text x="60" y="97" text-anchor="middle" fill="#a9b1d6" font-size="9" font-family="sans-serif">Stars</text>
+<rect x="15" y="108" width="90" height="15" rx="4" fill="#7dcfff"/>
+<text x="60" y="119" text-anchor="middle" fill="#1a1b27" font-size="9" font-family="sans-serif" font-weight="bold">C Rank</text>
+</g>
+<g transform="translate(645,5)">
+<rect width="120" height="140" rx="10" fill="#1f2035" stroke="#4f98a3" stroke-width="1.5"/>
+<rect x="35" y="12" width="50" height="50" rx="6" fill="#2d3561"/>
+<text x="60" y="48" text-anchor="middle" fill="#FFD700" font-size="22" font-family="sans-serif" font-weight="bold">FLWR</text>
+<text x="60" y="80" text-anchor="middle" fill="#e0af68" font-size="22" font-family="sans-serif" font-weight="bold">3</text>
+<text x="60" y="97" text-anchor="middle" fill="#a9b1d6" font-size="9" font-family="sans-serif">Followers</text>
+<rect x="15" y="108" width="90" height="15" rx="4" fill="#7dcfff"/>
+<text x="60" y="119" text-anchor="middle" fill="#1a1b27" font-size="9" font-family="sans-serif" font-weight="bold">C Rank</text>
+</g>
+<g transform="translate(773,5)">
+<rect width="120" height="140" rx="10" fill="#1f2035" stroke="#4f98a3" stroke-width="1.5"/>
+<rect x="35" y="12" width="50" height="50" rx="6" fill="#2d3561"/>
+<text x="60" y="48" text-anchor="middle" fill="#FFD700" font-size="22" font-family="sans-serif" font-weight="bold">ISS</text>
+<text x="60" y="80" text-anchor="middle" fill="#e0af68" font-size="22" font-family="sans-serif" font-weight="bold">1</text>
+<text x="60" y="97" text-anchor="middle" fill="#a9b1d6" font-size="9" font-family="sans-serif">Issues</text>
+<rect x="15" y="108" width="90" height="15" rx="4" fill="#7dcfff"/>
+<text x="60" y="119" text-anchor="middle" fill="#1a1b27" font-size="9" font-family="sans-serif" font-weight="bold">C Rank</text>
+</g>
+</svg>
