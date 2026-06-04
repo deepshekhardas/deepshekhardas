@@ -91,7 +91,7 @@ const deepshekhar = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="profile/trophies.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/deepshekhardas/deepshekhardas/main/profile/trophies.svg" width="100%" />
 </div>
 
 ---
