@@ -82,7 +82,7 @@ const deepshekhar = {
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepshekhardas&theme=tokyonight&hide_border=true&background=0d1117&ring=4f98a3&fire=4f98a3&currStreakLabel=4f98a3" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=deepshekhardas&theme=tokyonight&hide_border=true&background=0d1117&ring=4f98a3&fire=4f98a3&currStreakLabel=4f98a3" width="70%"/>
 
 </div>
 
