@@ -1,5 +1,59 @@
-Payment required
-
-DEPLOYMENT_DISABLED
-
-iad1::5nwzn-1780574401971-fc2fd9902471
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150">
+  <style>
+    .card { fill: #1a1b27; rx: 10; ry: 10; }
+    .title { font: bold 14px 'Segoe UI', sans-serif; fill: #4f98a3; }
+    .val { font: bold 22px 'Segoe UI', sans-serif; fill: #ffffff; }
+    .label { font: 11px 'Segoe UI', sans-serif; fill: #a9b1d6; }
+    .trophy { font: 28px serif; }
+    .rank { font: bold 11px 'Segoe UI', sans-serif; }
+  </style>
+  <!-- PRs Trophy -->
+  <rect x="5" y="5" width="120" height="140" rx="10" fill="#1a1b27" stroke="#4f98a3" stroke-width="1"/>
+  <text x="65" y="45" text-anchor="middle" font-size="34">🏆</text>
+  <text x="65" y="75" text-anchor="middle" font="bold 20px sans-serif" fill="#FFD700" font-size="20" font-weight="bold">466</text>
+  <text x="65" y="95" text-anchor="middle" fill="#4f98a3" font-size="10" font-family="sans-serif">Pull Request</text>
+  <rect x="20" y="102" width="90" height="16" rx="4" fill="#2d3561"/>
+  <text x="65" y="114" text-anchor="middle" fill="#e0af68" font-size="10" font-family="sans-serif" font-weight="bold">S Rank</text>
+  <!-- Commits Trophy -->
+  <rect x="133" y="5" width="120" height="140" rx="10" fill="#1a1b27" stroke="#4f98a3" stroke-width="1"/>
+  <text x="193" y="45" text-anchor="middle" font-size="34">🥇</text>
+  <text x="193" y="75" text-anchor="middle" fill="#FFD700" font-size="20" font-weight="bold" font-family="sans-serif">28</text>
+  <text x="193" y="95" text-anchor="middle" fill="#4f98a3" font-size="10" font-family="sans-serif">Total Commits</text>
+  <rect x="148" y="102" width="90" height="16" rx="4" fill="#2d3561"/>
+  <text x="193" y="114" text-anchor="middle" fill="#e0af68" font-size="10" font-family="sans-serif" font-weight="bold">B+ Rank</text>
+  <!-- Contributions Trophy -->
+  <rect x="261" y="5" width="120" height="140" rx="10" fill="#1a1b27" stroke="#4f98a3" stroke-width="1"/>
+  <text x="321" y="45" text-anchor="middle" font-size="34">🥈</text>
+  <text x="321" y="75" text-anchor="middle" fill="#FFD700" font-size="20" font-weight="bold" font-family="sans-serif">535</text>
+  <text x="321" y="95" text-anchor="middle" fill="#4f98a3" font-size="10" font-family="sans-serif">Contributions</text>
+  <rect x="276" y="102" width="90" height="16" rx="4" fill="#2d3561"/>
+  <text x="321" y="114" text-anchor="middle" fill="#e0af68" font-size="10" font-family="sans-serif" font-weight="bold">A Rank</text>
+  <!-- Repos Trophy -->
+  <rect x="389" y="5" width="120" height="140" rx="10" fill="#1a1b27" stroke="#4f98a3" stroke-width="1"/>
+  <text x="449" y="45" text-anchor="middle" font-size="34">🥉</text>
+  <text x="449" y="75" text-anchor="middle" fill="#FFD700" font-size="20" font-weight="bold" font-family="sans-serif">37</text>
+  <text x="449" y="95" text-anchor="middle" fill="#4f98a3" font-size="10" font-family="sans-serif">Repositories</text>
+  <rect x="404" y="102" width="90" height="16" rx="4" fill="#2d3561"/>
+  <text x="449" y="114" text-anchor="middle" fill="#e0af68" font-size="10" font-family="sans-serif" font-weight="bold">C Rank</text>
+  <!-- Stars Trophy -->
+  <rect x="517" y="5" width="120" height="140" rx="10" fill="#1a1b27" stroke="#4f98a3" stroke-width="1"/>
+  <text x="577" y="45" text-anchor="middle" font-size="34">⭐</text>
+  <text x="577" y="75" text-anchor="middle" fill="#FFD700" font-size="20" font-weight="bold" font-family="sans-serif">23</text>
+  <text x="577" y="95" text-anchor="middle" fill="#4f98a3" font-size="10" font-family="sans-serif">Stars</text>
+  <rect x="532" y="102" width="90" height="16" rx="4" fill="#2d3561"/>
+  <text x="577" y="114" text-anchor="middle" fill="#e0af68" font-size="10" font-family="sans-serif" font-weight="bold">C Rank</text>
+  <!-- Followers Trophy -->
+  <rect x="645" y="5" width="120" height="140" rx="10" fill="#1a1b27" stroke="#4f98a3" stroke-width="1"/>
+  <text x="705" y="45" text-anchor="middle" font-size="34">👥</text>
+  <text x="705" y="75" text-anchor="middle" fill="#FFD700" font-size="20" font-weight="bold" font-family="sans-serif">3</text>
+  <text x="705" y="95" text-anchor="middle" fill="#4f98a3" font-size="10" font-family="sans-serif">Followers</text>
+  <rect x="660" y="102" width="90" height="16" rx="4" fill="#2d3561"/>
+  <text x="705" y="114" text-anchor="middle" fill="#e0af68" font-size="10" font-family="sans-serif" font-weight="bold">C Rank</text>
+  <!-- Issues Trophy -->
+  <rect x="773" y="5" width="120" height="140" rx="10" fill="#1a1b27" stroke="#4f98a3" stroke-width="1"/>
+  <text x="833" y="45" text-anchor="middle" font-size="34">🔖</text>
+  <text x="833" y="75" text-anchor="middle" fill="#FFD700" font-size="20" font-weight="bold" font-family="sans-serif">1</text>
+  <text x="833" y="95" text-anchor="middle" fill="#4f98a3" font-size="10" font-family="sans-serif">Issues</text>
+  <rect x="788" y="102" width="90" height="16" rx="4" fill="#2d3561"/>
+  <text x="833" y="114" text-anchor="middle" fill="#e0af68" font-size="10" font-family="sans-serif" font-weight="bold">C Rank</text>
+</svg>
