@@ -91,8 +91,7 @@ const deepshekhar = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/deepshekhardas/deepshekhardas/main/profile/trophies.svg" width="100%" />
-</div>
+![PR](https://img.shields.io/badge/%F0%9F%8F%86_Pull_Request-466-FFD700?style=for-the-badge&labelColor=1a1b27) ![Commits](https://img.shields.io/badge/Commits-31-7aa2f7?style=for-the-badge&labelColor=1a1b27) ![Contributions](https://img.shields.io/badge/Contributions-535-9ece6a?style=for-the-badge&labelColor=1a1b27) ![Repos](https://img.shields.io/badge/Repos-37-7dcfff?style=for-the-badge&labelColor=1a1b27) ![Stars](https://img.shields.io/badge/Stars-23-e0af68?style=for-the-badge&labelColor=1a1b27) ![Followers](https://img.shields.io/badge/Followers-3-bb9af7?style=for-the-badge&labelColor=1a1b27)
 
 ---
 
