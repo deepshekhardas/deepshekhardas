@@ -76,9 +76,9 @@ const deepshekhar = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepshekhardas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4f98a3&icon_color=4f98a3&text_color=ffffff&include_all_commits=true&count_private=true" />
+<img src="profile/stats.svg" width="49%" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepshekhardas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4f98a3&text_color=ffffff" />
+<img src="profile/top-langs.svg" width="41%" />
 
 <br/>
 
@@ -91,7 +91,7 @@ const deepshekhar = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=deepshekhardas&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
+<img src="profile/trophies.svg" width="100%" />
 </div>
 
 ---
