@@ -32,6 +32,11 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate Trophy SVG
+        run: |
+          mkdir -p profile
+          curl -s "https://github-profile-trophy.vercel.app/?username=deepshekhardas&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" -o profile/trophies.svg || echo "Trophy fetch failed, skipping"
+
       - name: Commit cards
         run: |
           git config user.name "github-actions"
