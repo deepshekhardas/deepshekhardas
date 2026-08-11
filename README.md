@@ -10,8 +10,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=deepshekhardas&label=Profile+Views&color=01696f&style=flat-square" alt="profile views" />
-&nbsp;
 <a href="https://github.com/deepshekhardas?tab=followers">
   <img src="https://img.shields.io/github/followers/deepshekhardas?label=Followers&style=flat-square&color=01696f" />
 </a>
