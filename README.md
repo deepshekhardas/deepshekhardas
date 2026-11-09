@@ -1,5 +1,9 @@
 # Hi, I'm Deepshekhar Das
 
+**Chief Technology Officer at EzeFare (October 2026–Present)**
+
+[My EzeFare case study](https://deepshekhardas.github.io/ezefare-case-study.html)
+
 **Full-stack developer working with React, TypeScript, Python, and AI tools.**
 
 I build web applications and contribute bug fixes to open-source projects. Here you'll find original projects and short explanations of the problems behind my merged contributions.
